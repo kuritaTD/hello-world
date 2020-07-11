@@ -1,0 +1,64 @@
+body {
+  height: 2000px; 
+  font-family: "Avenir Next";
+  font-size: 40px;
+  float: left;
+}
+
+p{
+  color: #fff;
+  padding: 20px 30px;
+}
+
+li {
+  list-style: none;
+    float: left;
+    color: #fff;
+    padding: 20px 30px;
+}
+
+.header {
+  background: linear-gradient(top, #FFFFCC, 33%, #FF00CC, 66%, #663399);
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+    color: #fff;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list{
+  float: left;
+  color: #fff;
+  font-size: 36px;
+  font-size: 20px;
+
+}
+
+.main {
+  background-color: #bdf7f1;
+
+}
+/*
+
+*/
+
+/*htmlのほうをよけてるfrom line22
+<a href = "libries/about me.html"><h2><font color="blue">about me</font></h2></a>
+<a href = "libries/work.html"><h2><font color="blue">work</font></h2></a>
+<a href = "libries/favorite.html"><h2><font color="blue">favorite</font></h2></a>
+<<h1>Yoshinori Kurita</h1>
+<p>Kurita is university student.. I would like to make happy someone</p>
+<p>I'm traveling a trip to find myself... I'm depressed...</p>
+
+<li>
+<a>Links</a>
+</li>
+<li>
+<a>sketch</a>
+</li>
+<li>
+*/
